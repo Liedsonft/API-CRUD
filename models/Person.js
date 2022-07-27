@@ -2,9 +2,9 @@ const mongoose = require ('mongoose')
 
 const Person = mongoose.model ('Person',{
 
-    id: Number,
+    id: String,
     name: String,
-    healthInsuranceCardId: Number,
+    healthInsuranceCardId: String,
     address: String,
     createdAt: String,
 })
