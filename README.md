@@ -25,5 +25,5 @@ API RESTful que permite recuperar, criar, atualizar e deletar dados de um pacien
 - Node.js e framework web Express
 - NoSQL (MongoDB)
 - Git utilizado para versionamento de códigos
-- ODM (Postman)
+- ODM (Mongoose)
 
